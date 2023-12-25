@@ -7,7 +7,7 @@ The Electronic-Gadgets-Retail-Shop-UX-UI-Design is designed to display products 
 Available pages and sections include:
 - Home
 - About
-- Job offers
+- Products
 - Store GPS location
 - Search 
 - Contact
